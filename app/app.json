@@ -29,7 +29,9 @@
 			},
 			"package": "com.du_cassoulet.infoupec",
 			"versionCode": 22,
-			"googleServicesFile": "./google-services.json"
+			"googleServicesFile": "./google-services.json",
+			"installLocation": "auto"
+
 		},
 		"web": {
 			"favicon": "./assets/images/icon.png",
